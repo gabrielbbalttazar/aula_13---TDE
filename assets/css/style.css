@@ -1,0 +1,32 @@
+.imgLogo {
+    width: 350px;
+}
+
+.tamanhoLogoMenu {
+    width: 50px;
+}
+
+.marcas {
+    text-align: right !important;
+    margin-top: 10px;
+}
+
+.borda {
+    border-left: 1px solid black;
+}
+
+.paragrafoconteudo {
+    text-align: justify;
+   
+}
+
+.imgrede {
+    margin-left: 100px;
+    width: 200px;
+}
+
+.logofooter {
+    width: 200px;
+    margin-left: 50px;
+
+}
